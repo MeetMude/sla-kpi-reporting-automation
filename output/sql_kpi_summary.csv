@@ -1,0 +1,2 @@
+total_tickets,total_resolved,total_backlog,total_met_sla,total_breached,overall_sla_pct,avg_resolution_hours,avg_csat
+5000,4438,562,3629,809,81.77,20.35,4.0

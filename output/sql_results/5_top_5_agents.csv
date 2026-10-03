@@ -1,0 +1,6 @@
+agent,team,total_resolved,tickets_met_sla,sla_compliance_pct,avg_csat
+Carlos Mendez,Application Support,86,77,89.53,4.16
+Anita Sharma,Billing Operations,91,77,84.62,4.11
+Michael Scott,L1 Support,87,73,83.91,4.0
+Carlos Mendez,Billing Operations,83,72,86.75,4.08
+Dwight Schrute,Infrastructure,84,72,85.71,4.19

@@ -1,0 +1,5 @@
+priority,total_tickets,resolved_tickets,tickets_met_sla,sla_compliance_pct,avg_resolution_hours
+P1,482,433,339,78.29,5.04
+P2,1271,1130,936,82.83,10.55
+P3,2276,2025,1657,81.83,19.77
+P4,971,850,697,82.0,42.56

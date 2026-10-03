@@ -1,0 +1,6 @@
+category,total_resolved_tickets,avg_resolution_hours,avg_sla_target_hours,avg_csat_score
+Network,836,21.29,22.73,3.96
+Hardware,678,20.85,23.55,4.03
+Software,1531,20.53,22.24,3.98
+Access,915,19.67,22.63,4.03
+Billing,478,18.74,21.85,4.04
